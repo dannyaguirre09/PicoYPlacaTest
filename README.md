@@ -23,7 +23,7 @@ o
 yarn run dev
 ```
 
-por último abri el explorador en la ruta: http://localhost:3000
+por último abrir el explorador en la ruta: http://localhost:3000
 
 Live Demo: https://picoyplaca-taupe.vercel.app/
 
