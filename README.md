@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-App hecha con next.js
+App hecha con next.js para determinar sin un vehículo puede o no circular dentro del horario establecido.
 
 para poder ejecutar de forma local, primero es necesario clonar el repositorio.
 
